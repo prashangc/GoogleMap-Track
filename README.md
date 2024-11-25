@@ -1,16 +1,8 @@
-# blog
-
-A new Flutter project.
+# Google Map Tracking Test and News blog sharing App demo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Find video demo below
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/1fbcad77-485a-414e-90b9-3d7448d1f6bc
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
